@@ -6,6 +6,7 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
+    "@elysia/openapi": "^1.4.15",
     "better-sqlite3": "^12.10.0",
     "drizzle-orm": "^0.45.2",
     "elysia": "latest"
